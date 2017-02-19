@@ -5,6 +5,10 @@
 
 如 作者/老师 看见，请尽快使用WPF等无标准窗口句柄的UI库编写,谢谢！
 
+## 截图
+
+![](https://github.com/GEEKiDoS/CheaterforInputTest/raw/master/screenshot/snipaste20170219_222400.jpg)
+
 开源协议:[WTFPL](http://www.wtfpl.net/)
 ```
             DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
